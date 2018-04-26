@@ -14,5 +14,5 @@ describe "Lesson1-A Model testing" do
 
 
 
-  # try Lesson1A.divide
+
 end
